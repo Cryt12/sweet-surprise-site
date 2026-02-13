@@ -15,7 +15,7 @@ const LandingPage: React.FC = () => {
         </div>
         
         <h1 className="font-script text-5xl md:text-6xl text-foreground mb-4 animate-fade-in-up" style={{ animationDelay: '0.2s', opacity: 0, animationFillMode: 'forwards' }}>
-          Hi love
+          Hi langga!
         </h1>
         
         <p className="text-lg md:text-xl text-muted-foreground font-body mb-2 animate-fade-in-up" style={{ animationDelay: '0.5s', opacity: 0, animationFillMode: 'forwards' }}>
@@ -37,7 +37,7 @@ const LandingPage: React.FC = () => {
       </div>
 
       <p className="absolute bottom-6 text-xs text-muted-foreground/60 font-body z-10">
-        Made with love by someone who adores you 🤍
+        Made with love by Papang 🤍
       </p>
     </div>
   );

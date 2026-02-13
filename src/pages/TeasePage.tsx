@@ -23,7 +23,7 @@ const TeasePage: React.FC = () => {
             This comes with unlimited love,
           </p>
           <p className="text-lg text-muted-foreground font-body">
-            random kulit moments,
+            my random sweet surprises,
           </p>
           <p className="text-lg text-muted-foreground font-body">
             and someone who will always choose you 🤍
